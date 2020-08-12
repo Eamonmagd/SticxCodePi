@@ -1,0 +1,11 @@
+LCR 4.0 Stickx Sensor Data Python code created by Eamon Magdoubi
+The sensors attached to the Raspberry PI3 B+ are a Sound Sensor, VIbration, HUmidity
+and Tilt sensor.
+
+Data is recieved from the GPIO pins and interpretated to certain data formats to be 
+sent to the React firebase hosted web application.
+
+The code on the raspberry pi is ran via Python 3.6 
+
+
+the First function is the init.py
